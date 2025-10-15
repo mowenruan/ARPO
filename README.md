@@ -37,9 +37,6 @@
 ## 📣 Latest News
 
 - **[Oct 14, 2025]**: 🚀🚀🚀 We propose a new algorithm **AEPO**, which focused on entropy-balanced agentic RL and consistently outperforms ARPO on datasets like GAIA, HLE, and AIME. Full [codebase](https://github.com/RUC-NLPIR/ARPO/tree/main/AEPO) and [model checkpoints](https://huggingface.co/collections/dongguanting/aepo-68ef6832c99697ee03d5e1c7) of AEPO released.
--
--
-- 我们提出新的算法AEPO， 致力于熵平衡的agentic RL，同样设置下在GAIA，HLE，AIME等数据集性能上稳定优于ARPO。Full codebase and model checkpoints of **[AEPO]** released.
 - **[Aug 11, 2025]**: The brief introduction of ARPO can be found on a series of platforms like **[X](https://x.com/kakakbibibi/status/1950211490943832393), [WeChat](https://mp.weixin.qq.com/s/mFNRs-bHCAAe3x4QZHF8aA), [Zhihu](https://zhuanlan.zhihu.com/p/1938022709545141501), [YouTube](https://www.youtube.com/watch?v=FOK2tRtq7TE) and [Xiaohongshu](https://www.xiaohongshu.com/explore/68885b6b000000002501bb5e?xsec_token=ABhbOv-GAqL62zxhidTntouED470HN18Wk3e980-_uwtI=&xsec_source=pc_user)**.
 - **[July 29, 2025]**: 🔥 We are honored to be featured as 🤗 HuggingFace **[Daily Paper #1](https://huggingface.co/papers/2507.19849)** and  **[Weekly Paper #1](https://huggingface.co/papers/week/2025-W31)**.
 - **[July 29, 2025]**: 📄 Our paper is now available on **[arXiv](https://arxiv.org/abs/2507.19849)** and **[Hugging Face](https://huggingface.co/papers/2507.19849)** daily paper.
