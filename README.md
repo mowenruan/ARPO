@@ -42,13 +42,14 @@
 
 
 [1] [**Agentic Entropy-Balanced Policy Optimization**]()
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/RUC-NLPIR/ARPO) [![github](https://img.shields.io/github/stars/RUC-NLPIR/ARPO.svg?style=social)](https://github.com/RUC-NLPIR/ARPO) [![arXiv](https://img.shields.io/badge/Arxiv-2507.19849-b31b1b.svg?logo=arXiv)]() [![Paper](https://img.shields.io/badge/Hugging%20Face-Paper-yellow?logo=huggingface)]() [![Collection](https://img.shields.io/badge/Hugging%20Face-Collection-yellow?logo=huggingface)](https://huggingface.co/collections/dongguanting/aepo-68ef6832c99697ee03d5e1c7) [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FKevin_GuoweiXu%2Fstatus%2F1858338565463421244)]()
 
 
-> [2] [**Agentic Reinforced Policy Optimization**](https://arxiv.org/abs/2507.19849) <br>
+> [**Agentic Reinforced Policy Optimization**](https://arxiv.org/abs/2507.19849) <br>
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/RUC-NLPIR/ARPO) [![github](https://img.shields.io/github/stars/RUC-NLPIR/ARPO.svg?style=social)](https://github.com/RUC-NLPIR/ARPO) [![arXiv](https://img.shields.io/badge/Arxiv-2507.19849-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2507.19849) [![Paper](https://img.shields.io/badge/Hugging%20Face-Paper-yellow?logo=huggingface)](https://huggingface.co/papers/2505.16410) [![Collection](https://img.shields.io/badge/Hugging%20Face-Collection-yellow?logo=huggingface)](https://huggingface.co/collections/dongguanting/arpo-688229ff8a6143fe5b4ad8ae) [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FKevin_GuoweiXu%2Fstatus%2F1858338565463421244)](https://x.com/_akhaliq/status/1950172418250547478)
 
 > [**Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning**](https://arxiv.org/abs/2505.16410) <br>
-[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/RUC-NLPIR/Tool-Star) [![github](https://img.shields.io/github/stars/RUC-NLPIR/Tool-Star.svg?style=social)](https://github.com/RUC-NLPIR/Tool-Star) [![arXiv](https://img.shields.io/badge/Arxiv-2505.16410-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.16410)
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/RUC-NLPIR/Tool-Star) [![github](https://img.shields.io/github/stars/RUC-NLPIR/Tool-Star.svg?style=social)](https://github.com/RUC-NLPIR/Tool-Star) [![arXiv](https://img.shields.io/badge/Arxiv-2505.16410-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.16410) [![Paper](https://img.shields.io/badge/Hugging%20Face-Paper-yellow?logo=huggingface)](https://huggingface.co/papers/2505.16410) [![Collection](https://img.shields.io/badge/Hugging%20Face-Collection-yellow?logo=huggingface)](https://huggingface.co/collections/dongguanting/tool-star-682fd73dfa508bf3f40da032) [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FKevin_GuoweiXu%2Fstatus%2F1858338565463421244)](https://x.com/_akhaliq/status/1925924431676821698)
 
 </p></details>
 
