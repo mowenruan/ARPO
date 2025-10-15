@@ -15,6 +15,7 @@
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FKevin_GuoweiXu%2Fstatus%2F1858338565463421244)](https://x.com/_akhaliq/status/1950172418250547478)
 </div>
 
+
 <!--
 <p align="center">
 🤗 <a href="https://huggingface.co/dongguanting/Qwen2.5-3B-ARPO" target="_blank">Qwen2.5-3B-ARPO</a> ｜
@@ -29,6 +30,16 @@
 🤗 <a href="https://huggingface.co/datasets/dongguanting/ARPO-RL-DeepSearch-1K" target="_blank">ARPO-RL-DeepSearch-1K</a>
 </p>
 -->
+
+
+👏 Welcome to try our agentic RL series of algorithms:
+
+[1] **Agentic Entropy-Balanced Policy Optimization**
+
+[2] **Agentic Reinforced Policy Optimization**
+
+[3] **Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning**
+
 
 
 
