@@ -5,6 +5,7 @@
 <h1 align="center" style="margin-top: -50px;">✨ Agentic Reinforced Policy Optimization</h1>
 
 
+<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 
 
@@ -24,6 +25,9 @@
 -->
 
 
+
+## 🔥 Agentic RL Family
+
 <details open><summary>👏 Welcome to try our agentic RL series of algorithms: </summary><p>
 <!--  may -->
 
@@ -40,7 +44,6 @@
 
 </p></details>
 
-<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 
 
