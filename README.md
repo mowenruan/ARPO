@@ -28,7 +28,7 @@
 <p align="center">
 🤗 <a href="https://huggingface.co/collections/dongguanting/arpo-688229ff8a6143fe5b4ad8ae" target="_blank">HuggingFace(ARPO)</a> ｜
 🤗 <a href="https://huggingface.co/collections/dongguanting/aepo-68ef6832c99697ee03d5e1c7" target="_blank">HuggingFace(AEPO)</a> ｜
-💬 <a href="./assets/wechat_new.jpg">WeChat(微信)</a>
+💬 <a href="https://mp.weixin.qq.com/s/mFNRs-bHCAAe3x4QZHF8aA">WeChat@机器之心</a>
 <p align="center">
 
 > [!NOTE]
