@@ -94,6 +94,13 @@
 - [🤗 10K Agentic Deep Search RL Data](https://huggingface.co/datasets/dongguanting/ARPO-RL-DeepSearch-1K)
 - [🤗 10K Agentic Reasoning RL Data](https://huggingface.co/datasets/dongguanting/ARPO-RL-Reasoning-10K)
 
+| **Dataset**         | **Download**                                                 |
+| ----------------- | ------------------------------------------------------------ |
+| 54K Agentic SFT Data | [🤗 HuggingFace](https://huggingface.co/datasets/dongguanting/ARPO-SFT-54K) |
+| 1K Agentic Deep Search RL Data | [🤗 HuggingFace](https://huggingface.co/datasets/dongguanting/ARPO-RL-DeepSearch-1K) |
+| 10K Agentic Reasoning RL Data | [🤗 HuggingFace](https://huggingface.co/datasets/dongguanting/ARPO-RL-Reasoning-10K) |
+
+
 | **Model(ARPO)**         | **Download**                                                 |
 | ----------------- | ------------------------------------------------------------ |
 | Qwen3-8B-ARPO-DeepSearch | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen3-8B-ARPO-DeepSearch) |
