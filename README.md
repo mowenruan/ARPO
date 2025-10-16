@@ -1,4 +1,4 @@
-<div align="center">
+<img width="4948" height="2450" alt="image" src="https://github.com/user-attachments/assets/771fb625-5a83-4a70-8f21-2bbb86dcc316" /><div align="center">
   <img src="https://github.com/dongguanting/ARPO/blob/main/logo1.png" width="150px">
 </div>
 
@@ -141,7 +141,7 @@
 
 We propose **Agentic Entropy-Balanced Policy Optimization (AEPO)**, an agentic RL algorithm designed to balance entropy in both the rollout and policy update phases. AEPO comprises two core components:
 
-<img width="736" height="380" alt="image" src="https://github.com/user-attachments/assets/96a6df88-603e-4d99-ae36-dbbf2c36cc03" />
+<img width="4948" height="2450" alt="image" src="https://github.com/user-attachments/assets/e037f67c-3542-42dd-b0f5-ef2d90cb0f25" />
 
 - **Dynamic Entropy-Balanced Rollout Mechanism** that adaptively allocates global and branch sampling budget through entropy pre-monitoring, while imposing a branch penalty on consecutive high-entropy tool-call steps to prevent over-branching issues;
 
