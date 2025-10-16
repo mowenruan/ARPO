@@ -31,6 +31,15 @@
 💬 <a href="https://mp.weixin.qq.com/s/mFNRs-bHCAAe3x4QZHF8aA">WeChat@机器之心</a>
 <p align="center">
 
+
+[X](https://x.com/kakakbibibi/status/1950211490943832393), 
+[WeChat](https://mp.weixin.qq.com/s/mFNRs-bHCAAe3x4QZHF8aA), 
+[Zhihu](https://zhuanlan.zhihu.com/p/1938022709545141501), 
+[YouTube](https://www.youtube.com/watch?v=FOK2tRtq7TE)
+[Xiaohongshu](https://www.xiaohongshu.com/explore/68885b6b000000002501bb5e?xsec_token=ABhbOv-GAqL62zxhidTntouED470HN18Wk3e980-_uwtI=&xsec_source=pc_user)**.
+
+
+
 > [!NOTE]
 > This project includes the codebase, datasets and chckpoints for two RL algorithms: **Agentic Reinforced Policy Optimization (ARPO)** and **Agentic Entropy-Balanced Policy Optimization (AEPO)**. We will continue to iterate and expand our Agentic RL series.
 
