@@ -25,6 +25,11 @@
 -->
 
 
+> [!NOTE]
+> This project includes the codebase and models for two RL algorithms: Agentic Reinforced Policy Optimization and Agentic Entropy-Balanced Policy Optimization. We will continue to iterate and expand our Agentic RL series.
+
+
+
 
 ## 🔥 Agentic RL Family
 
