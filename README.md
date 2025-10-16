@@ -89,14 +89,19 @@
 
 ## 📦 Model Zoo & Dataset
 
-- [🤗 3K Agentic SFT Data](https://huggingface.co/datasets/Gen-Verse/Open-AgentRL-SFT-3K)
-- [🤗 30K Agentic RL Data](https://huggingface.co/datasets/Gen-Verse/Open-AgentRL-30K)
 
-| **Model**         | **Download**                                                 |
+- [🤗 54K Agentic SFT Data](https://huggingface.co/datasets/dongguanting/ARPO-SFT-54K)
+- [🤗 10K Agentic Deep Search RL Data](https://huggingface.co/datasets/dongguanting/ARPO-RL-DeepSearch-1K)
+- [🤗 10K Agentic Reasoning RL Data](https://huggingface.co/datasets/dongguanting/ARPO-RL-Reasoning-10K)
+
+| **Model(ARPO)**         | **Download**                                                 |
 | ----------------- | ------------------------------------------------------------ |
-| Qwen2.5-7B-RA-SFT | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/Qwen2.5-7B-RA-SFT) |
-| Qwen3-4B-RA-SFT   | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/Qwen3-4B-RA-SFT) |
-| DemyAgent-4B      | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/DemyAgent-4B) |
+| Qwen3-8B-ARPO-DeepSearch | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen3-8B-ARPO-DeepSearch) |
+| Qwen3-14B-ARPO-DeepSearch | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen3-14B-ARPO-DeepSearch) |
+| Qwen2.5-3B-ARPO | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen2.5-3B-ARPO) |
+| Qwen2.5-7B-ARPO | [🤗 HuggingFace](https://huggingface.co/dongguanting/Qwen2.5-7B-ARPO) |
+| Llama3.1-8B-ARPO | [🤗 HuggingFace](https://huggingface.co/dongguanting/Llama3.1-8B-ARPO) |
+
 
 
 
