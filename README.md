@@ -32,13 +32,12 @@
 <p align="center">
 
 <p align="center">
-
 <img src="./assets/x.png" width="14px" style="display:inline;"> <a href="https://x.com/kakakbibibi/status/1950211490943832393" target="_blank">X@AK</a> ｜
-[X](https://x.com/kakakbibibi/status/1950211490943832393) ｜ 
-[WeChat](https://mp.weixin.qq.com/s/mFNRs-bHCAAe3x4QZHF8aA) ｜
-[Zhihu](https://zhuanlan.zhihu.com/p/1938022709545141501) ｜ 
-[YouTube](https://www.youtube.com/watch?v=FOK2tRtq7TE) ｜
-[Xiaohongshu](https://www.xiaohongshu.com/explore/68885b6b000000002501bb5e?xsec_token=ABhbOv-GAqL62zxhidTntouED470HN18Wk3e980-_uwtI=&xsec_source=pc_user)
+<img src="./assets/x.png" width="14px" style="display:inline;"> <a href="https://x.com/jiqizhixin/status/1950440523107619136" target="_blank">X@机器之心</a> ｜
+<img src="./assets/weixin.png" width="14px" style="display:inline;"> <a href="https://mp.weixin.qq.com/s/mFNRs-bHCAAe3x4QZHF8aA" target="_blank">WeChat@机器之心</a> ｜
+<img src="./assets/zhihu.png" width="14px" style="display:inline;"> <a href="https://zhuanlan.zhihu.com/p/1938022709545141501" target="_blank">Zhihu</a> ｜
+<img src="./assets/YouTube.png" width="14px" style="display:inline;"> <a href="https://www.youtube.com/watch?v=FOK2tRtq7TE" target="_blank">YouTube</a> ｜
+<img src="./assets/xiaohongshu.png" width="14px" style="display:inline;"> <a href="https://www.youtube.com/watch?v=FOK2tRtq7TE" target="_blank">Xiaohongshu</a> ｜
 <p align="center">
 
 > [!NOTE]
@@ -85,6 +84,20 @@
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/RUC-NLPIR/Tool-Star) [![github](https://img.shields.io/github/stars/RUC-NLPIR/Tool-Star.svg?style=social)](https://github.com/RUC-NLPIR/Tool-Star) [![arXiv](https://img.shields.io/badge/Arxiv-2505.16410-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.16410) [![Paper](https://img.shields.io/badge/Hugging%20Face-Paper-yellow?logo=huggingface)](https://huggingface.co/papers/2505.16410) [![Collection](https://img.shields.io/badge/Hugging%20Face-Dataset%20&%20Models-yellow?logo=huggingface)](https://huggingface.co/collections/dongguanting/tool-star-682fd73dfa508bf3f40da032) [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FKevin_GuoweiXu%2Fstatus%2F1858338565463421244)](https://x.com/_akhaliq/status/1925924431676821698)
 
 </p></details>
+
+
+## 📦 Dataset
+
+- [🤗 3K Agentic SFT Data](https://huggingface.co/datasets/Gen-Verse/Open-AgentRL-SFT-3K)
+- [🤗 30K Agentic RL Data](https://huggingface.co/datasets/Gen-Verse/Open-AgentRL-30K)
+
+## 🤖 Model Zoo
+
+| **Model**         | **Download**                                                 |
+| ----------------- | ------------------------------------------------------------ |
+| Qwen2.5-7B-RA-SFT | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/Qwen2.5-7B-RA-SFT) |
+| Qwen3-4B-RA-SFT   | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/Qwen3-4B-RA-SFT) |
+| DemyAgent-4B      | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/DemyAgent-4B) |
 
 
 
