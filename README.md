@@ -87,6 +87,20 @@
 </p></details>
 
 
+## 📦 Dataset
+
+- [🤗 3K Agentic SFT Data](https://huggingface.co/datasets/Gen-Verse/Open-AgentRL-SFT-3K)
+- [🤗 30K Agentic RL Data](https://huggingface.co/datasets/Gen-Verse/Open-AgentRL-30K)
+
+## 🤖 Model Zoo
+
+| **Model**         | **Download**                                                 |
+| ----------------- | ------------------------------------------------------------ |
+| Qwen2.5-7B-RA-SFT | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/Qwen2.5-7B-RA-SFT) |
+| Qwen3-4B-RA-SFT   | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/Qwen3-4B-RA-SFT) |
+| DemyAgent-4B      | [🤗 HuggingFace](https://huggingface.co/Gen-Verse/DemyAgent-4B) |
+
+
 
 ## Table of Contents
 
