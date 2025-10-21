@@ -727,7 +727,7 @@ bash ./ARPO/merge_ckpt/convert_checkpoint_from_verl_to_hf_qwen3.sh
 
 ## ✅ ARPO/AEPO Evaluation
 
-If you have already trained a model, you can refer to the following process for TIR capability evaluation. Of course, you can also download our checkpoint from **[🤗ARPO-Huggingface-Collection](https://huggingface.co/collections/dongguanting/arpo-688229ff8a6143fe5b4ad8ae)** for directly testing.
+If you have already trained a model, you can refer to the following process for TIR capability evaluation. Of course, you can also download our checkpoint from **[🤗ARPO-Huggingface-Collection](https://huggingface.co/collections/dongguanting/arpo-688229ff8a6143fe5b4ad8ae)** and **[🤗AEPO-Huggingface-Collection](https://huggingface.co/collections/dongguanting/aepo-68ef6832c99697ee03d5e1c7)** for directly testing.
 This guide walks you through setting up two separate environments:
 - One for **vLLM inference service** (`vllm_env`)
 - One for **evaluation pipeline** (`evaluation`)
